@@ -7,7 +7,7 @@ module.exports = {
     connection: {
       filename: './data/cars.db3'
     },
-     // SQLite3 requires this
+    // SQLite3 requires this
     useNullAsDefault: true
   },
 
